@@ -1,8 +1,9 @@
 # Kareeme246
 
-Last edited Sept. 2022
+Last edited Sept. 2024
 
-Hello! I am Kareem Elgohry, second year undergraduate student at Vanderbilt University majoring in Computer Science. 
+Hello! I am Kareem Elgohry, fourth year undergraduate student at Vanderbilt University majoring in Computer Science and Mathematics. \
+I like to code in C++, Rust, and Java. Hoping to work more with Golang in the future!
 
 # Work Experience
   
@@ -11,12 +12,13 @@ Hello! I am Kareem Elgohry, second year undergraduate student at Vanderbilt Univ
 
 # Personal Projects
 
-  * Enhanced Tik-Tok clone webapp (Skills: html, CSS, JavaScript, React, Google Firebase)
+  * [Fuzzie-webapp](https://github.com/Kareeme246/fuzzie-webapp) (Skills: Next.js, React, typescript, googleapi, postgreSQL, APIs)
   * Lyric Guesser App (Skills: html, CSS, JavaScript, React, Python, Java)
   * Collaborative Personal Learning Blog (Skills: html, CSS, JavaScript)
 
 # Meaningful Class Projects
 
+  * Distributed IOT device measurement simulation w/kafka and database logging (Skills: Kafka, Virtualization, Docker, Chameleon Cloud, Python)
   * Audio reverser (Skills: C++, DSA)
   * Dynamic English language Dictionary (Skills: C++, DSA)
   * Guitar Audio Simulator (Skills: C++)
