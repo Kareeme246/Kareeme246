@@ -19,6 +19,8 @@ I like to code in C++, Rust, and Java. Hoping to work more with Golang in the fu
 # Meaningful Class Projects
 
   * Distributed IOT device measurement simulation w/kafka and database logging (Skills: Kafka, Virtualization, Docker, Chameleon Cloud, Python)
+  * Cross-platform IOS/Android Mobile App tailormade for Vanderbilt University students and staff to utilize the Vanderbilt RWC (Skills: Flutter, Dart, Google Firebase)
   * Audio reverser (Skills: C++, DSA)
   * Dynamic English language Dictionary (Skills: C++, DSA)
   * Guitar Audio Simulator (Skills: C++)
+VandyWellness- A cross-platform gym mobile app tailormade for Vanderbilt University students and staff to best utilize the Vanderbilt Recreation & Wellness Center created using Dart, the Flutter framework, and Google Firebase.
