@@ -12,6 +12,7 @@ I like to code in C++, Rust, and Java. Hoping to work more with Golang in the fu
 
 # Personal Projects
 
+  * Personal Website: [kareem.dev](https://kareemdev.vercel.app/)
   * [Fuzzie-webapp](https://github.com/Kareeme246/fuzzie-webapp) (Skills: Next.js, React, typescript, googleapi, postgreSQL, APIs)
   * Lyric Guesser App (Skills: html, CSS, JavaScript, React, Python, Java)
   * Collaborative Personal Learning Blog (Skills: html, CSS, JavaScript)
