@@ -1,27 +1,9 @@
-# Kareeme246
+<img width="1100" height="630" alt="biography-terminal-rendering" src="docs/banner-live-titled-scaled.svg" />
 
-Last edited Sept. 2024
+<p align="center">
+  <a href="https://offlinestudios.net/"><img alt="Offline Studios" src="https://img.shields.io/badge/Offline%20Studios-2D6A4F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y1RjNFRSIgc3Ryb2tlLXdpZHRoPSI4Ii8%2BPHJlY3QgeD0iMjUiIHk9IjI1IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIzLjUiIGZpbGw9IiNFMDdBNEYiLz48L3N2Zz4%3D" /></a>
+  <a href="https://www.linkedin.com/in/kareem-elgohry-85b238227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3A3226?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" /></a>
+  <a href="mailto:kareemelgohry1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-3A3226?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJtMjIgNy04Ljk3IDUuN2ExLjk0IDEuOTQgMCAwIDEtMi4wNiAwTDIgNyIvPjwvc3ZnPg%3D%3D" /></a>
+</p>
 
-Hello! I am Kareem Elgohry, fourth year undergraduate student at Vanderbilt University majoring in Computer Science and Mathematics. \
-I like to code in C++, Rust, and Java. Hoping to work more with Golang in the future!
-
-# Work Experience
-  
-  * Noise Modelling in End-to-End Radar Simulator @ JHUAPL (Skills: MatLab OOP and C++)
-  * Predictive Analytics Machine Learning model for Covid-19 @ JHUAPL (Skills: Python, Jupyter Notebooks, Statistics)
-
-# Personal Projects
-
-  * Personal Website: [kareem.dev](https://kareemdev.vercel.app/)
-  * [vm-code-rust](https://github.com/Kareeme246/vm-code-rust) (Skills: Rust, Kafka, Docker/Docker-Compose, libtorch, CI/CD, Cloud/Distributed Systems)
-  * [Fuzzie-webapp](https://github.com/Kareeme246/fuzzie-webapp) (Skills: Next.js, React, typescript, googleapi, postgreSQL, APIs)
-  * [time_since_app](https://github.com/Kareeme246/time_since_app) (Skills: Flutter, UI/UX design, Mobile APIs)
-  * Lyric Guesser App (Skills: html, CSS, JavaScript, React, Python, Java)
-  * Collaborative Personal Learning Blog (Skills: html, CSS, JavaScript)
-
-# Meaningful Class Projects
-
-  * Cross-platform IOS/Android Mobile App tailormade for Vanderbilt University students and staff to utilize the Vanderbilt RWC (Skills: Flutter, Dart, Google Firebase)
-  * Audio reverser (Skills: C++, DSA)
-  * Dynamic English language Dictionary (Skills: C++, DSA)
-  * Guitar Audio Simulator (Skills: C++)
+<p align="center"><sub>For work inquiries, reach out at <a href="mailto:contact@offlinestudios.net">contact@offlinestudios.net</a></sub></p>
